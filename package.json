@@ -1,0 +1,22 @@
+{
+  "name": "studyMoment",
+  "version": "0.0.1",
+  "description": "some common way of moment.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimLiu1/moment.git"
+  },
+  "author": "TimLiu1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimLiu1/moment/issues"
+  },
+  "homepage": "https://github.com/TimLiu1/moment#readme",
+  "dependencies": {
+    "moment": "^2.15.1"
+  }
+}
